@@ -52,11 +52,24 @@ The versions for these dependencies are:
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
 
-<p align="left">Simply run on your terminal:</p>
+Now we need to run the server, which will update automatically thanks to nodemon, using the following command:
 
 ```bash
 npm run start
 ```
 
-<p>...and you are ready to go! </p>
+After having run the server, you need to go to the client folder and run the app:
+To go into the client folder:
+```bash
+cd ..
+```
+To run the app:
+```bash
+npm run start
+```
+
+<p>...and you are ready to go! 
+If you run any problem or you want any explanation please feel free to contact me!
+Happy Coding 
+</p>
 
