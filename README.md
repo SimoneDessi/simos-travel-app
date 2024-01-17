@@ -7,10 +7,13 @@
 <h3 align="left">How to run the app: </h3>
 I've used [npm] as a package manager for NodeJs, please use the following commands to install everything you need to start the application.
 First, you need to go to the root of the application from your terminal after you cloned it from this page, you can do it simply by clicking on the 'code' button on the top right.
+
 ```bash
 cd travel-app
 ```
+
 Then install the package manager:
+
 ```bash
 npm install
 ```
